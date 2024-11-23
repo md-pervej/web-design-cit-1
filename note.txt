@@ -1,0 +1,6 @@
+https://www.devsnews.com/template/appbee/appbee/index-red.html#
+
+Display:
+1. Inline: block only the space of the content and padding works fine,margin Y does not work, bothers other element
+2. Blcok: blocks the whole width of the parent & margin works fine, does ot botehr other element
+3. inline-blick: blocks only the space of the content & margin padding works fine, does not bother other element
